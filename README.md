@@ -20,7 +20,3 @@ I'm a **Mathematician** and a **Full stack web developer student** at Driven Edu
 <br/>
 
 <h2 align="center">GitHub Stats:</h2>
-
-<img align="left" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelamonteiro&layout=compact&langs_count=7&theme=dracula"/>
-
-<img align="left" height="120em" src="https://github-readme-stats.vercel.app/api?username=manuelamonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
