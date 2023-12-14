@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, world! I'm Manu 👋 </h1>
 
-I'm a **Mathematician** and a **Full stack web developer student** at Driven Education.
+I'm a **Mathematician** and a **Full stack web developer**.
 
 <h2 align="center">Languages and Tools:</h2>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
